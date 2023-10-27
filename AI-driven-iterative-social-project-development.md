@@ -109,57 +109,62 @@ By integrating AI into the iterative development process, social projects can le
 # Useful Prompts
 
 
-```markdown
+
 ### Smart Prompts for Ideating Assumptions (Step 1)
+This prompt can help identify assumptions related to a project focused on water quality, such as community involvement, effectiveness of proposed solutions, and regulatory support.
 
 ```plaintext
 Prompt: "Based on the objective to improve local water quality, what are some underlying assumptions that we may need to consider?"
 ```
 
-This prompt can help identify assumptions related to a project focused on water quality, such as community involvement, effectiveness of proposed solutions, and regulatory support.
 
 ---
 
 ### Smart Prompts for Prioritizing Risky Assumptions (Step 2)
+Use this prompt to get the AI to evaluate your list of assumptions and help prioritize them based on risk and uncertainty, crucial for figuring out which assumptions to test first.
 
 ```plaintext
 Prompt: "Given these assumptions [List your assumptions here], can you analyze and rank them based on their level of risk and uncertainty?"
 ```
 
-Use this prompt to get the AI to evaluate your list of assumptions and help prioritize them based on risk and uncertainty, crucial for figuring out which assumptions to test first.
 
 ---
 
 ### Smart Prompts for Designing Iterations (Step 3)
+This prompt can guide the AI to suggest specific, low-cost methods or projects to validate your riskiest assumptions.
 
 ```plaintext
 Prompt: "We have identified that the riskiest assumption is that the community will actively participate. How can we design a minimal, cost-effective iteration to test this?"
 ```
 
-This prompt can guide the AI to suggest specific, low-cost methods or projects to validate your riskiest assumptions.
 
 ---
 
 ### Smart Prompts for Evaluating and Learning (Step 5)
+This prompt can assist in evaluating the results of your iteration, helping you understand whether your riskiest assumption was confirmed or refuted.
 
 ```plaintext
 Prompt: "Here are the results of our first iteration [Provide iteration results]. What key performance indicators suggest that our assumption was validated or invalidated?"
 ```
 
-This prompt can assist in evaluating the results of your iteration, helping you understand whether your riskiest assumption was confirmed or refuted.
 
 ---
 
 ### Smart Prompts for Planning the Next Iteration (Step 6)
+After validating an assumption, use this prompt to help brainstorm scalable solutions or next steps in your project.
 
 ```plaintext
 Prompt: "Given that our assumption about community participation was validated, what strategies or steps should we consider for scaling our efforts?"
 ```
 
-After validating an assumption, use this prompt to help brainstorm scalable solutions or next steps in your project.
-
-```
 
 Feel free to tailor these prompts to fit the specific context and objectives of your social project. They are designed to be adaptable and can serve as a solid foundation for interacting with generative AI tools.
 
+
+## Contact Information
+- Email: HasanAboShally@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hasanaboshally/
+- Website: https://hasan.life
+
+_© 2023_
 
